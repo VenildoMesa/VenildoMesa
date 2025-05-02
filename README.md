@@ -1,7 +1,7 @@
 # Olá, Mundo! 👋
 
 ## Sobre Mim
-Estudante de Engenharia Informática no 4º ano, apaixonado por desenvolvimento web e software, com foco especial em tecnologias front-end. Busco constantemente expandir meus conhecimentos e habilidades técnicas para criar soluções inovadoras e intuitivas.
+Sou estudante finalista de Engenharia Informática, apaixonado por desenvolvimento web e software, com foco especial em tecnologias front-end. Busco constantemente expandir meus conhecimentos e habilidades técnicas para criar soluções inovadoras e intuitivas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venildomesa/)](https://www.linkedin.com/in/venildomesa/)
 
@@ -13,6 +13,7 @@ Estudante de Engenharia Informática no 4º ano, apaixonado por desenvolvimento 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Tecnologias Web
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,4 +36,3 @@ Estudante de Engenharia Informática no 4º ano, apaixonado por desenvolvimento 
 - Desenvolvimento de aplicações móveis com React Native
 - Arquitetura de software escalável
 
-⭐️ De [seu-usuario](https://github.com/VenildoMesa)
