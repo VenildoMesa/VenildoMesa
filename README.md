@@ -3,7 +3,7 @@
 ## Sobre Mim
 Estudante de Engenharia Informática no 4º ano, apaixonado por desenvolvimento web e software, com foco especial em tecnologias front-end. Busco constantemente expandir meus conhecimentos e habilidades técnicas para criar soluções inovadoras e intuitivas.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venildomesa/)](https://www.linkedin.com/in/seu-linkedin/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venildomesa/)](https://www.linkedin.com/in/venildomesa/)
 
 ## 🚀 Habilidades
 
